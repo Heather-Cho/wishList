@@ -47,15 +47,18 @@ JSON Dummy API를 활용하여 상품정보를 랜덤으로 보여주고, 위시
  + 위시리스트 담기 버튼
  + 다른상품 보기 버튼 / 리프레시
  + 위시리스트 보기 버튼
-![Simulator Screenshot - iPhone 15 Pro - 2024-04-20 at 13 40 57](https://github.com/Heather-Cho/wishList/assets/161270633/d7838eb1-d759-4d2b-bb4f-e930ce2cbf4c)
-![Simulator Screenshot - iPhone 15 Pro - 2024-04-20 at 13 39 32](https://github.com/Heather-Cho/wishList/assets/161270633/dcb28b37-947b-4c8f-9a0f-f75d505cbcfb)
-![Simulator Screenshot - iPhone 15 Pro - 2024-04-20 at 13 39 28](https://github.com/Heather-Cho/wishList/assets/161270633/bec6de42-a359-490a-ab67-5c5a228909b6)
+
+<p>
+<img src=“https://github.com/Heather-Cho/wishList/assets/161270633/d7838eb1-d759-4d2b-bb4f-e930ce2cbf4c.png” width=200/>
+<img src=“https://github.com/Heather-Cho/wishList/assets/161270633/dcb28b37-947b-4c8f-9a0f-f75d505cbcfb.png” width=200/>
+<img src=“https://github.com/Heather-Cho/wishList/assets/161270633/bec6de42-a359-490a-ab67-5c5a228909b6.png” width=200/>
+</p>
 
 
 2. 위시리스트 화면
 + 위시리스트 테이블뷰 컨트롤러
 + 셀 삭제기능
 + 전체 데이터 삭제 기능
-![Simulator Screenshot - iPhone 15 Pro - 2024-04-20 at 13 43 19](https://github.com/Heather-Cho/wishList/assets/161270633/2889a43b-12b8-4fc5-899b-868e809453cc)
+![Simulator Screenshot - iPhone 15 Pro - 2024-04-20 at 13 43 19](https://github.com/Heather-Cho/wishList/assets/161270633/2889a43b-12b8-4fc5-899b-868e809453cc){: width=“20%” height=“20%“} 
 
 
